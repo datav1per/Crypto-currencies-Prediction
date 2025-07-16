@@ -3,10 +3,10 @@
 This project uses an LSTM model to forecast the next 30 days of prices for major cryptocurrencies, including BTC, ETH, XMR, XLM, BCH, and XRP. The predictions are visualized in a Power BI dashboard to provide clear business insights.
 
 ##  Files
-
+- dataset -https://www.kaggle.com/datasets/jessevent/all-crypto-currencies
 - `cryptocurrency_prediction.py` – Python script for data cleaning, LSTM modeling, and forecasting.
 - `crypto_all_actual_forecast.csv` – Combined CSV of actual and forecasted prices for all coins.
-- `Task2.pbix` – Power BI dashboard showing historical trends and future price forecasts.
+- `Dashboard.pbix` – Power BI dashboard showing historical trends and future price forecasts.
 
 ##  Project Summary
 
