@@ -26,7 +26,7 @@ The Power BI dashboard shows:
 ##  Usage
 
 1. Run the Python script to generate forecast CSV files.
-2. Load `crypto_all_actual_forecast.csv` into the Power BI dashboard.
+2. Load `Dashboard.pbix` into the Power BI dashboard.
 3. Explore trends and forecasts interactively for business insights or trading strategies.
 
 ---
